@@ -1,0 +1,18 @@
+,Filter,Parameter,start,stop,num
+4,Bilateral filter,$\sigma_c$,5.0,100.0,30.0
+3,Bilateral filter,$\sigma_s$,1.0,20.0,30.0
+19,Cauchy noise,$\sigma$,1.0,50.0,100.0
+7,Comb,$\sigma$,1.0,50.0,20.0
+6,Comb,$\sigma_c$,10.0,60.0,10.0
+5,Comb,$\sigma_s$,1.0,20.0,10.0
+10,Comb Reverse,$\sigma$,1.0,50.0,20.0
+9,Comb Reverse,$\sigma_c$,10.0,60.0,10.0
+8,Comb Reverse,$\sigma_s$,1.0,20.0,10.0
+0,Gaussian filter,$\sigma$,0.0,50.0,100.0
+14,Gaussian noise,$\sigma$,0.0,100.0,100.0
+15,Laplacian noise,$\sigma$,0.0,100.0,100.0
+11,Non-local means,$h$,0.0,100.0,100.0
+17,Salt-and-pepper noise,Density,0.01,0.99,15.0
+16,Salt-and-pepper noise,Intensity,0.0,255.0,30.0
+18,Snow noise,Density,0.01,0.99,100.0
+12,Uniform noise,Intensity,0.0,250.0,100.0
